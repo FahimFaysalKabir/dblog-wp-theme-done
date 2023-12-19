@@ -1,0 +1,2 @@
+# DevBlog
+ localthemefolder_to_creating_git_repository
